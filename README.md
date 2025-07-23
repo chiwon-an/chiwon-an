@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chiwon An</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="center">A passionate data developer from Korea</h3>
 
 - 🔭 I’m currently working on [Suwon Policy Data Challenge](Check it outhttps://example.com/suwon-policy-project)
 
