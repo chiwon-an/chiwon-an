@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Suwon Policy Data Challenge](Check it outhttps://example.com/suwon-policy-project)
 
-- 🌱 I’m currently learning **Data Sience(Pandas), Data Engineering (docker, kafka, flink, spark, Airflow, Elasticsearch, Hadoop), and Full-Stack Web Dev (Vue + Django)**
+- 🌱 I’m currently learning **Data Science(Pandas), Data Engineering (docker, kafka, flink, spark, Airflow, Elasticsearch, Hadoop), and Full-Stack Web Dev (Vue + Django)**
 
 - 👯 I’m looking to collaborate on **Smart Factory Quality Analysis**
 
